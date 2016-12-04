@@ -14,7 +14,7 @@ body {
 }
 
 img {
-   width: auto;
+   width: 100%;
    max-width: 100%;
  }
 
@@ -48,3 +48,10 @@ table {
   text-align: left;
 }
 
+.buf_top {
+  margin-top: 10cm;
+}
+
+.buf_bot {
+  margin-bottom: 10cm;
+}
